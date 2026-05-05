@@ -1,5 +1,5 @@
-#include <iostream>   // для std::cout, std::cin
-#include <string>      // для std::string
+#include <iostream>   // для ввода/вывода
+#include <string>      // для работы со строками
 
 int main() {
     std::string name;                     // переменная для имени пользователя
